@@ -13,7 +13,6 @@
 
 * [Token wizard](features/token-wizard.md)
 * [Wallet manager](features/wallet-manager.md)
-* [Bump bot](features/bump-bot.md)
 * [Volume bot](features/volume-bot.md)
 * [Mass actions](features/mass-actions/README.md)
   * [Mass send](features/mass-actions/mass-send.md)

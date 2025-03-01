@@ -4,23 +4,23 @@ icon: wallet
 
 # Wallet manager
 
-GitBook supports many different types of content, and is backed by Markdown — meaning you can copy and paste any existing Markdown files directly into the editor!
+Use the wallet manager to create your main wallet types and up to 20 bundle wallets
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/markdown-hero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Feel free to test it out and copy the Markdown below by hovering over the code block in the upper right, and pasting into a new line underneath.
+### Distributing funds
 
-```markdown
-# Heading
+To be able to bundle your launches you need to distribute your SOL to up to 20 wallets
 
-This is some paragraph text, with a [link](https://docs.gitbook.com) to our docs. 
+We have 2 distribution methods at the moment:
 
-## Heading 2
-- Point 1
-- Point 2
-- Point 3
-```
+* Fixed distribution, divide sol from funding wallet in equal amounts
+* Randomized distribution
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
 
 {% hint style="info" %}
-If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
+We are working on an aging system for your bundler wallets too, so your wallets do not get flagged on trading platforms like Bullx
 {% endhint %}

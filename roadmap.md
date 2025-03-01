@@ -1,6 +1,6 @@
 ---
-description: Our future plans for Phoenix
 icon: road
+description: Our future plans for Phoenix
 ---
 
 # Roadmap
@@ -15,10 +15,11 @@ icon: road
 * [x] Dashboard deployment
 * [x] Sniper feature
 * [ ] Finish documentation website
+* [ ] Youtube channel with tutorials
 * [ ] Phoenix Dashboard public launch
 * [x] SPL Mass collect feature for dashboard
 * [x] Discord webhook integration
-* [ ] Pump.fun integration
+* [x] Pump.fun integration
 * [ ] Comment bot for Pump.fun
 * [ ] Reaction booster bot for Dexscreener
 * [ ] Giveaways on X & Discord

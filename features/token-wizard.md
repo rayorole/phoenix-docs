@@ -4,35 +4,33 @@ icon: coin
 
 # Token wizard
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+The token wizard is an exclusive feature built for Phoenix
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+### What is this?
 
-### Writing content
+The token wizard, allows you to launch your created tokens in seconds.
 
-GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
+We support 3 launch types at the moment:
 
-Either start typing below, or press `/` to see a list of the blocks you can insert into your page.
+* 0 Bundle block launch
+* Delayed bundle
+* Bundle on demand
 
-### Add a new block
+### Wizard steps
 
 {% stepper %}
 {% step %}
-### Open the insert block menu
-
-Press `/` on your keyboard to open the insert block menu.
+### Select your token
 {% endstep %}
 
 {% step %}
-### Search for the block you need&#x20;
-
-Try searching for “Stepper”, for exampe, to insert the stepper block.
+### Select launch type&#x20;
 {% endstep %}
 
 {% step %}
-### Insert and edit your block
+### Launch & profit
 
-Click or press Enter to insert your block. From here, you’ll be able to edit it as needed.
+Once you launch the token, you will be greeted with the launch overview modal, where you can manage buys/sells or end launch
 {% endstep %}
 {% endstepper %}
 
